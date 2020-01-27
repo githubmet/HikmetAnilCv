@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Hikmet Anıl CV</title>
+<style>
+legend
+{
+color:blue;
+text-align:center;
+}
+fieldset
+{
+background-color:#d0e4fe;
+}
+</style>
+</head>
+<body >
+
+<div style="font-family:verdana;padding:20px;border-radius:10px;border:10px solid #d0e4fe;">
+
+<fieldset id="G1">
+<legend>Kişisel Bilgiler</legend>
+<p><b>Ad Soyad: </b>Hikmet Anıl</p>
+<p><b>Eğitim Durumu :</b>Üniversite Makina Müh. Bol. (Terk)</p>
+<p><b>Medeni Durum: </b>Bekar</p>
+<p><b>Doğum Tarihi: </b>28/03/1984</p>
+<p><b>Askerlik Durumu: </b>Yapıldı</p>
+<p><b>Sürücü Belgesi: </b>B Sınıfı</p>
+</fieldset>
+
+<fieldset>
+<legend>İletişim Bilgileri</legend>	
+<p><b>Github Link: </b><a style="text-decoration:underline;color:blue" href="https://github.com/githubmet" target="_blank" >Githubmet</a></p>
+<p><b>Google Play Store Link: </b><a style="text-decoration:underline;color:blue" href="https://play.google.com/store/apps/developer?id=Hikmet+An%C4%B1l&hl=tr" target="_blank" >Hikmet Anıl</a></p>
+<p><b>E-posta: </b>iyibidunya@gmail.com</p>
+<p><b>Cep Telefonu: </b>0542 678 2023</p>
+<p><b>Adres:</b> İstanbul(Avr)-Esenler</p>	
+</fieldset>
+
+
+<fieldset>
+<legend>Yetenekler</legend>
+<p><b>Yabancı Dil: </b>İngilizce (Çok iyi)</p>
+<p><b>Programlama Dilleri: </b>Java, C#, Python, Kotlin, Html, xml </p>
+<p><b>Kullanılan Programlama Araçları: </b>Android Visual Studio, Microsoft Visual Studio, MS SQL Server</p>
+<p><b>Diğer Yazılım Araçları: </b>Rest Api, Json, Google Firebase, Admob, Github VCS, Bitbucket VCS, Adobe Illustrator</p>
+</fieldset>
+
+<fieldset>
+<legend>Yayınlanan Uygulamalar</legend>
+<h3>Android Uygulama Linkleri</h3>
+<a href="https://play.google.com/store/apps/details?id=com.hikmetanil.sosmet2real" target="_blank" >SOS Oyunu</a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=hikmetanil.taslaklar2" target="_blank" >Şiir Uygulaması</a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=hikmetanil.notmet" target="_blank" >Not Kaydetme Uygulaması</a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=hikmetanil.paintmet2" target="_blank" >Çizim Uygulaması</a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=hikmetanil.bulmet" target="_blank" >Patika Yol Bulma Uygulaması</a>
+<br>
+<a href="https://play.google.com/store/apps/details?id=hikmetanil.githubmet2" target="_blank" >Github Profile Bulma Uygulaması</a>
+<br>
+</fieldset>
+
+
+
+<fieldset>
+<legend>Mesleki Yeterlilik Belgeleri</legend>
+<h3>Bilgisayar Programcılığı</h3>
+<p>SmartPro Bilgisayar Akademisi (770 saat) 06/02/2014 - 14/07/2014</p>
+<p>C# Porgramlama Dili <br>
+Visual Studio Console Uygulamaları <br>
+Nesne Yönelimli Uygulama(OOP) <br>
+Microsoft SQL Server <br>
+Veri Tabanı İşlemleri <br>
+Microsoft SQL Server <br>
+Ado.Net Windows <br>
+Form Uygulamaları <br>
+Asp.Net Uygulamaları <br>
+Html,JavaScript  <br>
+</p>
+</fieldset>
+
+<fieldset>
+<legend>Projeler</legend>
+<h3>Web projesi</h3>
+<p>Üyelerin kendi telefonlarını siteye koyup satabilmeleri üzerine kurulu bir site.</br>
+1)Ziyaretçilerde mesaj alma sayfası</br>
+2)Üye girişi(3 hakka sahip)</br>
+Üyenin şifresini unutması durumunda mesaj ile şifre değiştirme link gönderimi</br>
+Yeni üye kayıt(Captcha kullanıldı)</br>
+3)Ürün arama sayfası (Özelliklere göre arama araçları mevcut)</br>
+4)Ürün ekleme sayfası: üyelerin kendi ürünlerini update, delete, insert yapabildikleri</br>
+5)Anasayfa, ÜrünDetay,Ürün karşılaştırma sayfaları</br>
+</p>
+<p><b>Proje Link: </b><a style="text-decoration:underline;color:blue" href="https://www.youtube.com/watch?v=f8pgklAaKFc" target="_blank" >Elektronik Market</a></p>
+
+<h3>Windows Form Projeleri</h3>
+<h4>Halıcılık Otomasyonu</h2>
+<p>Kullanıcıların kendi halılarını tasarlayabildikleri,halı seçip sipariş verebildikleri, siparişlerini kontrol edebildikleri bir otomasyon.Halı çizim komutları Graphics sınıfının metotları ile oluşturuldu.</p>
+<p><b>Proje Link: </b><a style="text-decoration:underline;color:blue" href="https://www.youtube.com/watch?v=xMAhF_VpakQ" target="_blank" >Halıcılık Otomasyonu</a></p>
+<h4>Cd Market Otomasyonu</h2>
+<p>Satış elamanının tek ekranda müşteri kayıt, sil, tüm filmleri gör,sipariş ver, müşteri sipariş gör, sil v.s. yapabiliyor. Diğer bir formda film ile ilgili işlemlerini hataya sebep vermeden yapabildiği bir otomasyon.</p>
+<p><b>Proje Link: </b><a style="text-decoration:underline;color:blue" href="https://www.youtube.com/watch?v=IKC_KTPVtS4" target="_blank" >CD Market</a></p>
+<h4>Tcp/Ip Projesi</h2>
+<p>Bir şirketin akıllı priz projesi için simülasyon amacıyla kullanılmak üzere server ve client uygularını yaptım. Tcp/Ip protokolleri kullanılarak birden fazla client bağlantısı
+ve veri tabanına client tan gelen verilerin kayıt işlemi yapılmıştır.</p>
+<p><b>Proje Link: </b><a style="text-decoration:underline;color:blue" href="https://www.youtube.com/watch?v=qJ4rOTHg5JM" target="_blank" >Akıllı Tabak</a></p>
+
+<p align="center">
+<a href="#G1" style="color:red;">Go to Top</a>
+</p>
+
+<hr>
+</body>
+</html>
+
+
+
